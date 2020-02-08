@@ -1,7 +1,7 @@
 ﻿using Bing.WxMiniProgram.Models;
 using Newtonsoft.Json;
 
-namespace Bing.WxMiniProgram.Sns.Results
+namespace Bing.WxMiniProgram.Auth.Results
 {
     /// <summary>
     /// JsCode2Json 结果
